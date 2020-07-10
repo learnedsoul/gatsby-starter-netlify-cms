@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Be Free Mentally
-image: /img/copy-of-stanley-1920x1080-feb10.png
+image: /img/endschool-campingmark-076-2-.jpg
 heading: When Covid Opens Your Mind
 subheading: Stanley Idaho-The Teton's without People
 mainpitch:
